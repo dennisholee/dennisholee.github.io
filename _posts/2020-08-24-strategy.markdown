@@ -1,0 +1,33 @@
+# Strategy
+
+[https://www.isc.hbs.edu/strategy/creating-a-successful-strategy/pages/unique-value-proposition.aspx](https://www.isc.hbs.edu/strategy/creating-a-successful-strategy/pages/unique-value-proposition.aspx)
+* Value chain focuses internally on operations
+* Value proposition is the element of strategy that looks outward at customers, at the demand side of the business
+
+<img src="https://www.isc.hbs.edu/Style%20Library/hbs/images/strategy/unique-value-propositioning.png" width="500px" />
+
+[https://hbr.org/2019/04/5-myths-about-strategy](https://hbr.org/2019/04/5-myths-about-strategy)
+* It is precisely when long-held assumptions about an industry are challenged that strategic changes happen.
+* Strategy is not about the long term or the short term, but about the fundamentals of how the business works: 
+  * Sources of value creation
+  * Drivers of the cost to deliver it
+  * Basis of competition
+* Strategy is about what we are going to do now in order to shape the future to our advantage.
+
+## Competition
+* Low end, other start-ups may be launching their own version of your product or service and trying to achieve scale in the market before you. 
+* High end, established brands are figuring out how to leverage their own assets to own part or all of your space
+
+## Blitzscaling
+[https://hbr.org/2016/04/blitzscaling](https://hbr.org/2016/04/blitzscaling)
+* Blitzscaling is what you do when you need to grow really, really quickly.
+* Software has a natural affinity with blitzscaling, because the marginal costs of serving any size market are virtually zero.
+* _Blitzkrieg_ is you carried only what is absolutely needed so that you could move very, very fast, surprise your enemies, and win.
+* Three kinds of scale:
+  * Growing revenue
+  * Growing customer base
+  * Scaling the organization
+
+[https://www.valuer.ai/blog/blitzscaling-the-ultimate-guide-to-startup-growth-and-scaling](https://www.valuer.ai/blog/blitzscaling-the-ultimate-guide-to-startup-growth-and-scaling)
+
+<img src="https://www.valuer.ai/hs-fs/hubfs/5-STAGES-OF-BLITZSCALING-1-1303x1050.jpg?width=1148&name=5-STAGES-OF-BLITZSCALING-1-1303x1050.jpg" width="400px" />
