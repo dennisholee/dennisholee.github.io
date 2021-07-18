@@ -11,6 +11,7 @@ This setup assumes Kong is running without a database.
 # Summary
 
 The following table outlines the task to be carried out.
+
 |#|Activities|Description|
 |-|-|-|
 |1|Prepare Consumer Profile|This exercise will be based on the Client Assertion when authenticating against the Kong Gateway. Hence an asymmetric key will be generated.|
