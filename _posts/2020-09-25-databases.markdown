@@ -1,8 +1,3 @@
-title:  "Database Options!"
-date:   2020-09-26 12:00:00 +0000
-categories: jekyll update
----
-
 # Comparison Matrix
 |Databases|Description|Relational|NoSQL|NewSQL|Remarks|
 |-|-|-|-|-|-|
@@ -29,11 +24,11 @@ categories: jekyll update
 
 ## High Availability
 
-|DBMS|Model|Fail Over|
-|-|-|-|
-|MongoDB|Master-Slave||
-|Cassandra|Ring Architecture (peer communication)||
-|Redis|||
+|DBMS|CAP|Model|Fail Over|Read Writes|Data Model|Query|Indexes|Performance|
+|-|-|-|-|-|-|-|-|-|
+|MongoDB||Master-Slave|An election takes place to identify slave to promote to master. There is short service outage for a slave to be promoted to a master. However if configured a read can be performed on the secondary.|Writes are performed on the single primary and reads can be read on secondaries.|Object / Document|JSON based|
+|Cassandra|AP|Ring Architecture (peer communication)||Writes can be performed on multiple masters.|Wide Column Store. Cassandra Data Types|CQL|
+|Redis|||||||
 
 
 

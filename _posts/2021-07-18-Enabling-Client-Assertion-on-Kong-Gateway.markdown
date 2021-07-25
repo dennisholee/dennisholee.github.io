@@ -153,6 +153,7 @@ The following table outlines the task to be carried out.
     }
     ```
 3. Create a Java application to generate the JWT.
+
     |Variable|Description|Example|
     |-|-|-|
     |KEY|Issuer's key acquired from the Kong Gateway|mTqEnyJeUL09j8ofOa68z5vOtTVj2Pd6|
